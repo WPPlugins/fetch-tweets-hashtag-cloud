@@ -1,0 +1,17 @@
+/*
+Template Name: Hashtag Cloud
+Template URI: http://en.michaeluno.jp
+Author: Michael Uno
+Author URI: http://en.michaeluno.jp
+Description: Extracts hash tags from the fetched tweets and displays them as word cloud.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: default
+Text Domain: fetch-tweets
+*/
+
+.fetch-tweets-hashtag-cloud {
+	overflow-y: auto;	
+	overflow-x: hidden;
+}
